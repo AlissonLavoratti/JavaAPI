@@ -3,7 +3,8 @@ package dev.java10x.CadastroDeNinjas;
 import jakarta.persistence.*;
 
 // Entity transforma uma classe em uma entidade do DB.
-// JPA = Java Persistence API
+// JPA = Java Persistence API.
+// Teste em outra branch em outro ambiente.
 @Entity
 @Table(name = "tb_cadastro")
 public class NinjaModel {
